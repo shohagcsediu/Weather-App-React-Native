@@ -3,7 +3,7 @@ Weather React Native App provides weather updated using OPENWEATHERMAP Api.
 
 # Live Demo
 
-
+<img src="./live.jpg">
 
 # Features
 
